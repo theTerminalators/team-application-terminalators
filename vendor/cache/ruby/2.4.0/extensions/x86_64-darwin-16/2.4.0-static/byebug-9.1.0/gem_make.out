@@ -1,0 +1,19 @@
+current directory: /Users/zekebergida/Desktop/actualize/team-application-terminalators/vendor/cache/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+/Users/zekebergida/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170928-16314-yqtzsu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/zekebergida/Desktop/actualize/team-application-terminalators/vendor/cache/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/zekebergida/Desktop/actualize/team-application-terminalators/vendor/cache/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/zekebergida/Desktop/actualize/team-application-terminalators/vendor/cache/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170928-16314-10pe0in/byebug
