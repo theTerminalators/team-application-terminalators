@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   get '/pets' => 'pets#index'
 
   get '/pages' => 'pages#index'
+  get 'pages/:id' => 'pages#show'
 
   get '/pages/:id' => 'pages#show'
 
